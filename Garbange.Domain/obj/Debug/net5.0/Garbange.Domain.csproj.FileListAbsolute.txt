@@ -1,0 +1,105 @@
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.deps.json
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfo.cs
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.json
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\4B\APIS\4B\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.genruntimeconfig.cache
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.deps.json
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.json
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.dev.json
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.AssemblyReference.cache
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfoInputs.cache
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfo.cs
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 4\Tareas\Aplicaciones WEB\Parcial 3\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.deps.json
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.json
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.dll
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.dll
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\Usuario\Desktop\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.genruntimeconfig.cache
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.deps.json
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.json
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.dev.json
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.dll
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.AssemblyReference.cache
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfoInputs.cache
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfo.cs
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.dll
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\javix\Downloads\api\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.genruntimeconfig.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.deps.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.dev.json
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfo.cs
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\DELL Latitude E5570\OneDrive\Desktop\Visual Studio Code\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.genruntimeconfig.cache
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.deps.json
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.json
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfo.cs
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.genruntimeconfig.cache
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.deps.json
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.json
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\bin\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.AssemblyInfo.cs
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\ref\Garbange.Domain.dll
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.pdb
+C:\Users\Administrador\Documents\4B\Aplicaciones WEB\PARCIAL 3\Times\Remasterizado\ProyectoGarbange-main\Garbange.Domain\obj\Debug\net5.0\Garbange.Domain.genruntimeconfig.cache
